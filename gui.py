@@ -9,6 +9,6 @@ my_list=[
 ]
 for i in my_list:
     for j in i:
-        if j == 1:print("*",end=" ")
+        if j == 1:print("#",end=" ")
         else:print(" ",end=" ")
     print(" ")
