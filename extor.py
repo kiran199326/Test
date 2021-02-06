@@ -18,7 +18,7 @@ s = req.session()
 s.cookies.clear()
 s.cookies.keys()
 u = []
-for i in range(1, 200): u.append("https://freeanimesonline.com/o.php?b=5&pv=" + str(i) + "&mobile=&u=MTcyLjE4LjAuMXw6Ly9leHRyYXRvcnJlbnQuc2kvY2F0Lzk4MHxNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvODguMC40MzI0LjEwNCBTYWZhcmkvNTM3LjM2fDg5NTY3NQ%3D%3D")
+for i in range(1, 150): u.append("https://1337x.unblockit.ltd/cat/Other/" + str(i))
 
 
 def fetch_url(url):
